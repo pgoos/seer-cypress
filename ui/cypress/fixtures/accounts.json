@@ -1,0 +1,12 @@
+{
+    "valid": {
+        "director": {
+            "email": "<emailDirector>",
+            "password": "<passwordDirector>"
+        },
+        "adult": {
+            "email": "<emailAdult>",
+            "password": "<passwordAdult>"
+        }
+    }
+}

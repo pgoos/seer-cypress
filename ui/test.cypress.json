@@ -1,0 +1,24 @@
+{
+    "baseUrl": "http://server:5000/",
+    "numTestsKeptInMemory": 10,
+    "chromeWebSecurity": false,
+    "reporter": "./node_modules/mochawesome/src/mochawesome.js",
+    "reporterOptions": {
+        "reportDir": "cypress/reports/separate-reports",
+        "overwrite": false,
+        "html": false,
+        "json": true
+    },
+    "env": {
+        "apiUrl": "",
+        "basicAuthHost": "",
+        "basicAuthLogin": "",
+        "basicAuthPassword": "",
+        "adminLogin": "",
+        "adminPassword": "",
+        "emailNamespace": "",
+        "emailApiKey": "",
+        "notificationEmail": "",
+        "newDaycarePassword": ""
+    }
+}

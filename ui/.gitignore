@@ -1,0 +1,9 @@
+node_modules
+.env
+
+# Cypress
+cypress.json
+cypress/examples
+cypress/videos
+cypress/screenshots
+cypress/reports
